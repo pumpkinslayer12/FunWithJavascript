@@ -1,0 +1,24 @@
+# Mac OS files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Node.js dependencies
+node_modules/
+
+# Log files
+logs
+*.log
+npm-debug.log*
+
+# Editor files
+.vscode/
+.idea/
+
+# Build and distribution files
+dist/
+build/
+
+# Environment variables
+.env
