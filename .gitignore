@@ -22,3 +22,6 @@ build/
 
 # Environment variables
 .env
+
+# github stuff
+.gitattributes
